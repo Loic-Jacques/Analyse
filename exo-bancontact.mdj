@@ -64,9 +64,9 @@
 											},
 											"font": "Arial;32;0",
 											"parentStyle": true,
-											"left": 44.796875,
+											"left": 39.453125,
 											"top": 5,
-											"width": 553.15625,
+											"width": 499.390625,
 											"height": 32,
 											"text": "Diagramme de Séquence : Distributeur"
 										},
@@ -80,7 +80,7 @@
 											"parentStyle": true,
 											"left": 5,
 											"top": 5,
-											"width": 33.796875,
+											"width": 28.453125,
 											"height": 32,
 											"text": "sd"
 										}
@@ -2514,5 +2514,7 @@
 				}
 			]
 		}
-	]
+	],
+	"author": "Loïc JACQUES",
+	"version": "1.0"
 }
